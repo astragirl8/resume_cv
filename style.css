@@ -1,0 +1,16 @@
+.left {
+    float: left;
+    margin-right: 1em;
+    margin-top: 1em;
+    padding: 1;
+}
+h4,p 
+{
+    margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+        
+}
